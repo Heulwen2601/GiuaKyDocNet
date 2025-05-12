@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|d:\\study\\hk6\\dotnet\\giuakydocnet\\manager_tour_cnnet-master\\qltour\\giaodien\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\main_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\main_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\dattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\dattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\qltour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\qltour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\dattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\dattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\qltour\\giaodien\\main_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A3EE8-0BF7-47F2-9309-09C33E4A8F93}|QLTOUR\\QLTOUR.csproj|solutionrelative:qltour\\giaodien\\main_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ThongKe.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\ThongKe.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ThongKe.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\ThongKe.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAuwLYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:34:16.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietHD.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ChiTietHD.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\ChiTietHD.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ChiTietHD.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\ChiTietHD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:32:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QLHoaDon.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLHoaDon.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\QLHoaDon.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLHoaDon.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\QLHoaDon.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:32:11.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QLKhachHang.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\QLKhachHang.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLKhachHang.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\QLKhachHang.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAAFEBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:00:02.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\QLKhachHang.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLKhachHang.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\QLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:09:32.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ve.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\Ve.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\Ve.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\Ve.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\Ve.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:59:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ve.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\Ve.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\Ve.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\Ve.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\Ve.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:12:46.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ThongKe.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\ThongKe.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ThongKe.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:12:38.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLTour.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLTour.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\QLTour.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLTour.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\QLTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:10:11.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLNhanVien.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\QLNhanVien.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLNhanVien.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\QLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:09:37.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLHoaDon.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\QLHoaDon.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\QLHoaDon.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\QLHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:09:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\DBConnection.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\DBConnection.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\DBConnection.cs",
+              "RelativeToolTip": "QLTOUR\\DBConnection.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwE4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:41:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatTour.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DatTour.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\DatTour.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DatTour.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\DatTour.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAOcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:27:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatTour.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DatTour.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\DatTour.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DatTour.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\DatTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:23:16.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\DangNhap.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:09:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DangKy.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\DangKy.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\DangKy.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:42:55.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MAIN_QL.cs",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\MAIN_QL.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\MAIN_QL.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\MAIN_QL.cs",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\MAIN_QL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:57:59.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MAIN_QL.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\MAIN_QL.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\MAIN_QL.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\MAIN_QL.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\MAIN_QL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:57:38.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietHD.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ChiTietHD.cs",
+              "RelativeDocumentMoniker": "QLTOUR\\GiaoDIen\\ChiTietHD.cs",
+              "ToolTip": "D:\\Study\\HK6\\dotNet\\GiuaKyDocNet\\Manager_Tour_CNNET-master\\QLTOUR\\GiaoDIen\\ChiTietHD.cs [Design]",
+              "RelativeToolTip": "QLTOUR\\GiaoDIen\\ChiTietHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:43:06.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
