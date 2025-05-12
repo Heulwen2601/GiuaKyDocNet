@@ -30,6 +30,11 @@
   
 **Thống kê**
 - Thống kê doanh thu
+- Báo cáo doanh thu
+
+**Nhập xuất file**
+- Xuất file danh sách khách hàng
+- Nhập file danh sách tour du lịch
   
 # Cách chạy file
 1) Chạy file database
