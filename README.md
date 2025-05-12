@@ -1,3 +1,8 @@
+## Đồ Án Giữa Kỳ .NET
+# Thông tin thành viên:
+- Lâm Huỳnh Như - 5220028
+- Lê Anh Bắc - 52200030
+
 # Thông tin chung
 1) Phần mềm “Quản Lý Tour Du Lịch” dùng cho việc quản lý bán tour một cách dễ dàng, tiện lợi hơn.
 2) Tất cả phần tính tổng tiền, tính khuyến mãi đều do phần mềm làm.
