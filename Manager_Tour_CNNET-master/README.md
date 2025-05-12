@@ -1,4 +1,3 @@
-# Video DEMO PROJECT https://youtu.be/k-xAom7BB5o
 # Thông tin chung
 1) Phần mềm “Quản Lý Tour Du Lịch” dùng cho việc quản lý bán tour một cách dễ dàng, tiện lợi hơn.
 2) Tất cả phần tính tổng tiền, tính khuyến mãi đều do phần mềm làm.
