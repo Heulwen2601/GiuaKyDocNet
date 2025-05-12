@@ -1,4 +1,4 @@
-# Đồ Án Giữa Kỳ .NET 
+# Đồ Án Giữa Kỳ .NET - Phần mềm quản lý tour du lịch
 
 # Thông tin thành viên:
 - Lâm Huỳnh Như - 5220028
